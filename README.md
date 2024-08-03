@@ -3,5 +3,4 @@ Raspberry pi 5 OLED driver, due to Pi 5 have owner I/O chip and different w/ Pi 
 This code is reference this github:
 https://github.com/mklements/OLED_Stats
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/1137015e-93ed-4245-9929-ba4e3a671c56)
