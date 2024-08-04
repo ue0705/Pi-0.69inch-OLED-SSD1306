@@ -4,3 +4,12 @@ This code is reference this github:
 https://github.com/mklements/OLED_Stats
 
 ![image](https://github.com/user-attachments/assets/1137015e-93ed-4245-9929-ba4e3a671c56)
+
+20240804 update:
+Add Waveshare UPS HAT(B) for monitor_bat.py
+
+About UPS python, pls reference below:
+English:
+https://www.waveshare.com/wiki/UPS_HAT_(B)
+Chinese:
+https://www.waveshare.net/wiki/UPS_HAT_(B)
